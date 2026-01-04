@@ -2,6 +2,8 @@
 MCP for getting Singapore Bus Timing
 
 ## If you are using Claude
+![Demo screenshot](images/claude_screenshot.png)
+
 ```
 {
   "mcpServers": {
